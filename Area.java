@@ -1,5 +1,5 @@
 public class Area {
- public static void main(String [] sis)
+ public static void main(String [] s)
  {
 double a=14,b=20,c;
 
